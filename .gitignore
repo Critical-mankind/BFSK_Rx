@@ -1,0 +1,16 @@
+# Recreated project/workspace and tool caches
+vivado/project/
+vitis/workspace/
+.Xil/
+.metadata/
+__pycache__/
+xsim.dir/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.o
+*.obj
+# Keep the selected final verification logs.
+!docs/reports/*.log
